@@ -1,0 +1,26 @@
+baseURL = "xianyuluo.com"
+languageCode = "cn-ZH"
+title = "xianyuLuo Blog"
+themes = "maupassant"
+uglyurls = true
+
+[author]
+  name = "xianyuLuo"
+
+[params]
+  author = "xianyuLuo"
+  subtitle = "当你的才华还不能支撑起你的野心时，你应该静下心来，好好学习！"
+  keywords = "python,运维,Kubernetes,Istio,ServiceMesh,xianyuLuo,博客,python,软件架构,公众号"
+  description = "当你的才华还不能支撑起你的野心时，你应该静下心来，好好学习！"
+
+[menu]
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 4
