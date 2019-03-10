@@ -58,4 +58,3 @@ capacitor进行负载均衡，利用负责抛弃来预防再发生
 ### 新的代办事项
 + TODO （martym）：提高AnnotataionConsistencyTooEventual的阈值
 + TODO（docbrown）：将实例数量复原，退还资源
-

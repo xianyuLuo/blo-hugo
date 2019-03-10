@@ -69,4 +69,3 @@ Jennifer、martym、agoogler
 + 16:00 故障结束
 
 # 其他支持信息
-监控信息： http://monitor.xxx.com

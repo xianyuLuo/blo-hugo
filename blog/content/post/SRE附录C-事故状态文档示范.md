@@ -66,4 +66,3 @@ IRC #shakespeare 频道
 + 2015-10-21 14:55 UTC docbrown
   
   ——出现大量紧急报警，全部集群出现 ManyHttp500s
-
