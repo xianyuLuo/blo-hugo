@@ -12,6 +12,7 @@ uglyurls = true
   subtitle = "当你的才华还不能支撑起你的野心时，你应该静下心来，好好学习！"
   keywords = "python,运维,Kubernetes,Istio,ServiceMesh,xianyuLuo,博客,python,软件架构,公众号"
   description = "当你的才华还不能支撑起你的野心时，你应该静下心来，好好学习！"
+  GitHubUser = "xianyuLuo"
 
 [menu]
   [[menu.main]]
