@@ -187,4 +187,3 @@ traefik官网：https://docs.traefik.io/
 
 <font color=#ff1201>微信订阅号同步：**时下IT**</font>
 
-![weixin](http://dl-blog.laoxianyu.cn/weixindy.jpg)

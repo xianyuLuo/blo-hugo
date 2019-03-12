@@ -55,4 +55,3 @@ __对应TCP/IP协议族协议__：IEEE802
 
 <font color=#ff1201>微信订阅号同步：**时下IT**</font>
 
-![weixin](http://dl-blog.laoxianyu.cn/weixindy.jpg)

@@ -27,5 +27,3 @@ Ping命令就是利用这两种类型的ICMP数据包。
 <font color=#ff1201>技术交流可加QQ群：**774332965**<br></font>
 
 <font color=#ff1201>微信订阅号同步：**时下IT**</font>
-
-![weixin](http://dl-blog.laoxianyu.cn/weixindy.jpg)

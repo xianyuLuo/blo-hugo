@@ -1,6 +1,5 @@
 ---
-title:
-  - Ingress介绍
+title: Ingress介绍
 categories:
   - kubernetes
 tags:
@@ -118,4 +117,3 @@ traefik-ingress-controller使用：https://laoxianyu.cn/archives/208297ce.html
 
 <font color=#ff1201>微信订阅号同步：**时下IT**</font>
 
-![weixin](http://dl-blog.laoxianyu.cn/weixindy.jpg)

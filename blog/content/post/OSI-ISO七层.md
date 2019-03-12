@@ -22,4 +22,3 @@ TCP/IP：TCP/IP为很大的一个协议族，里面包含了非常多的协议�
 
 <font color=#ff1201>微信订阅号同步：**时下IT**</font>
 
-![weixin](http://dl-blog.laoxianyu.cn/weixindy.jpg)

@@ -59,4 +59,3 @@ TCP就是用这个窗口，慢慢的从数据的左边移动到右边，把处�
 
 <font color=#ff1201>微信订阅号同步：**时下IT**</font>
 
-![weixin](http://dl-blog.laoxianyu.cn/weixindy.jpg)
