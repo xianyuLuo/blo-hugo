@@ -1,8 +1,6 @@
-baseURL = "xianyuluo.com"
 languageCode = "cn-ZH"
 title = "xianyuLuo Blog"
 themes = "maupassant"
-uglyurls = true
 
 [author]
   name = "xianyuLuo"
