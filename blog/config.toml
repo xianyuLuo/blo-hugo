@@ -3,7 +3,7 @@ languageCode = "cn-ZH"
 title = "xianyuLuo Blog"
 themes = "maupassant"
 enableEmoji = "true"
-summaryLength = 140
+summaryLength = 40
 
 [author]
   name = "xianyuLuo"
