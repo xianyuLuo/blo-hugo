@@ -6,9 +6,9 @@ tags:
   - kubernetes
 ---
 # 背景
-由于容器化和微服务的大力发展，Kubernetes基本已经统一了容器管理方案，当我们使用Kubernetes来进行容器化管理的时候，全面监控Kubbernetes也就成了我们第一个需要探索的问题。我们需要监控kubernetes的ingress、service、deployment、pod......等等服务，已达到随时掌握Kubernetes集群的内部状况。
+由于容器化和微服务的大力发展，Kubernetes基本已经统一了容器管理方案，当我们使用Kubernetes来进行容器化管理的时候，全面监控Kubernetes也就成了我们第一个需要探索的问题。我们需要监控kubernetes的ingress、service、deployment、pod......等等服务，已达到随时掌握Kubernetes集群的内部状况。
 
-此文章是Prometheus监控系列的第一篇，目的也很明确，指在于寻找一套能够胜任kubernetes集群监控的架构。
+此文章是Prometheus监控系列的第一篇，目的也很明确，旨在于寻找一套能够胜任kubernetes集群监控的架构。
 
 # k8s监控方案调研
 
@@ -25,7 +25,7 @@ tags:
 - **cAdvisor**:
 来自 Google 的容器监控工具，也是 Kubelet 内置的容器资源收集工具。它会自动收集本机容器 CPU、内存、网络和文件系统的资源占用情况，并对外提供 cAdvisor 原生的 API。随 kubelet 启动   --cadvisor-port = 1
 
-![cadvisor架构](http://dl-blog.laoxianyu.cn/cadvisor.png "cadvisor架构")
+![cadvisor架构](http://dl-blog.laoxianyu.cn/cadvisor.png)
 
 - **Heapster**:
 由于 cAdvisor 只提供了单机的容器资源占用情况，而 Heapster 则提供了整个集群的资源监控（kubernetes 1.11 之前，hpa都是从heapster获取数据），并支持持久化数据存储到 InfluxDB
@@ -110,8 +110,7 @@ Prometheus官方Federation示例
 告警是利用Prometheus官方提供的Altermanager模块。Alermanager模块从Prometheus-Server接收告警信息，然后进行汇总、屏蔽、告警...等等操作。Alertmanager告警途径支持有email、wechat、webhook、slack等等，非常丰富。但是这里使用的是自身开发的Send_msg模块。
 
 ### 消息发送
-自开发的消息发送模块，集成email、微信、钉钉、短信等方式。其实不止告警时会发送消息，还有其他地方也会用到消息发送。
-
+自主开发的消息发送模块，集成email、微信、钉钉、短信等方式。其实不止告警时会发送消息，还有其他地方也会用到消息发送。
 
 监控架构清楚之后，接下来就是实施监控的一个过程了，具体实施步骤请看“Prometheus系列”第二篇文章。
 
