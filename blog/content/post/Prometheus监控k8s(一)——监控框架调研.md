@@ -25,7 +25,7 @@ tags:
 - **cAdvisor**:
 来自 Google 的容器监控工具，也是 Kubelet 内置的容器资源收集工具。它会自动收集本机容器 CPU、内存、网络和文件系统的资源占用情况，并对外提供 cAdvisor 原生的 API。随 kubelet 启动   --cadvisor-port = 1
 
-![cadvisor架构](http://dl-blog.laoxianyu.cn/cadvisor.png)
+![cadvisor架构](http://dl-blog.laoxianyu.cn/cadvisor.png "cadvisor架构")
 
 - **Heapster**:
 由于 cAdvisor 只提供了单机的容器资源占用情况，而 Heapster 则提供了整个集群的资源监控（kubernetes 1.11 之前，hpa都是从heapster获取数据），并支持持久化数据存储到 InfluxDB
@@ -112,7 +112,8 @@ Prometheus官方Federation示例
 ### 消息发送
 自开发的消息发送模块，集成email、微信、钉钉、短信等方式。其实不止告警时会发送消息，还有其他地方也会用到消息发送。
 
-==监控架构清楚之后，接下来就是实施监控的一个过程了，具体实施步骤请看“Prometheus系列”第二篇文章。==
+
+监控架构清楚之后，接下来就是实施监控的一个过程了，具体实施步骤请看“Prometheus系列”第二篇文章。
 
 # 结束
 此文章也是“使用prometheus完美监控kubernetes集群”系列的第一篇，对文章有不理解的地方，欢迎随时后台留言。

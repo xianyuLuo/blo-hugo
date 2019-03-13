@@ -1,7 +1,8 @@
-baseUrl = "http://xianyuluo.com"
+baseURL = "http://xianyuluo.com"
 languageCode = "cn-ZH"
 title = "xianyuLuo Blog"
 themes = "maupassant"
+enableEmoji = "true"
 
 [author]
   name = "xianyuLuo"
