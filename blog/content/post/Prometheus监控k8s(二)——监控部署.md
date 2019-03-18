@@ -5,6 +5,9 @@ draft: false
 tags:
   - kubernetes
   - prometheus
+categories:
+  - kubernetes
+  - prometheus
 ---
 
 # 背景

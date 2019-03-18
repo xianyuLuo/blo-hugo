@@ -4,6 +4,8 @@ tags:
   - 操作系统
 abbrlink: 7942b68e
 date: 2016-11-19T23:46:50+08:00
+categories
+  - 操作系统
 ---
 
 *Cache：高速缓存*

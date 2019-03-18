@@ -1,10 +1,13 @@
 ---
-title: 使用let's encript申请通配符证书
+title: 使用lets encript申请通配符证书
 tags: 
   - https
 abbrlink: bfd9c176
 date: 2018-11-07T22:42:59+08:00
+categories:
+  - kubernetes
 ---
+
 # 什么是 Let’s Encrypt
 Let’s Encrypt 是国外一个公共的免费 SSL 项目，由 Linux 基金会托管。它的来头不小，由 Mozilla、思科、Akamai、IdenTrust 和 EFF 等组织发起，目的就是向网站自动签发和管理免费证书。以便加速互联网由 HTTP 过渡到 HTTPS，目前 Facebook 等大公司开始加入赞助行列。
 

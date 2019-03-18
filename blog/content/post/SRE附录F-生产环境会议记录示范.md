@@ -5,6 +5,7 @@ tags:
 abbrlink: 1566daae
 date: 2019-03-10T12:09:02+08:00
 categories:
+  - sre
 ---
 ### 日期
 2015-10-23

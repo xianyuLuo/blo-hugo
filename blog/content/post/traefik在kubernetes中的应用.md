@@ -6,6 +6,8 @@ tags:
   - traefik
 abbrlink: 208297ce
 date: 2018-09-10T22:08:46+08:00
+categories:
+  - kubernetes
 ---
 # 目的：
 通过本篇文章，能够简单了解和掌握Traefik在Kubernetes中的应用

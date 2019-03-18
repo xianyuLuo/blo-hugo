@@ -4,6 +4,9 @@ date: 2019-03-12T22:11:13+08:00
 tags:
   - prometheus
   - kubernetes
+categories:
+  - kubernetes
+  - prometheus
 ---
 # 背景
 由于容器化和微服务的大力发展，Kubernetes基本已经统一了容器管理方案，当我们使用Kubernetes来进行容器化管理的时候，全面监控Kubernetes也就成了我们第一个需要探索的问题。我们需要监控kubernetes的ingress、service、deployment、pod......等等服务，已达到随时掌握Kubernetes集群的内部状况。
