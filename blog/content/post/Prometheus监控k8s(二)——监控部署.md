@@ -1,7 +1,6 @@
 ---
 title: "Prometheus监控k8s(二)——监控部署"
 date: 2019-03-18T15:51:18+08:00
-draft: false
 tags:
   - kubernetes
   - prometheus
