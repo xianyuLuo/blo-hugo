@@ -3,6 +3,13 @@ title: tcp连接的建立与终止
 tags: 
   - TCP
   - IP
+keywords:
+  - tcp协议
+  - tcp连接
+  - tcp终止
+  - tcp协议连接
+  - tcp协议终止
+description: "tcp连接的建立与终止"
 abbrlink: 684012cf
 date: 2017-11-29T19:25:14+08:00
 categories: [网络]

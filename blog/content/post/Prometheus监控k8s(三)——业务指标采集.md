@@ -4,6 +4,15 @@ date: 2019-03-26T09:42:15+08:00
 tags:
   - kubernetes
   - prometheus
+keywords:
+  - prometheus
+  - kubernetes监控
+  - k8s监控
+  - prometheus监控
+  - prometheus monitor kubernetes
+  - kubernetes监控业务指标
+  - prometheus监控业务指标
+description: "如何使用prometheus监控kubernetes及其业务指标"
 categories:
   - kubernetes
   - prometheus

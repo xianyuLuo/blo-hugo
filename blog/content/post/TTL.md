@@ -3,6 +3,13 @@ title: TTL
 tags: 
   - TCP
   - IP
+keywords:
+  - tcp/ip
+  - TTL
+  - TTL协议
+  - TTL协议应用
+  - traceroute原理
+description: "TTL协议原理，traceroute命令原理"
 abbrlink: 3549ca95
 date: 2016-11-22 23:32:39
 categories: [网络]

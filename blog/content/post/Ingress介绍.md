@@ -5,6 +5,12 @@ categories:
 tags:
   - kubernetes
   - ingress
+keywords:
+  - kubernetes
+  - ingress
+  - 什么是ingress
+  - ingress使用
+description: "什么是ingress，ingress原理"
 abbrlink: 7ef83387
 date: 2018-11-09T18:29:30+08:00
 ---

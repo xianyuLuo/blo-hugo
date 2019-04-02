@@ -2,6 +2,12 @@
 title: SRE附录D~事后总结示范
 tags:
   - sre
+keywords:
+  - sre 
+  - sre附录
+  - 事后总结示范
+  - 事后总结
+description: "SRE事后总结模板"
 abbrlink: 7d117065
 date: 2019-03-10T12:10:18+08:00
 categories:

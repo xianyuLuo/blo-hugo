@@ -3,6 +3,13 @@ title: OSI七层协议详细讲解
 tags: 
   - TCP
   - IP
+keywords:
+  - tcp/ip
+  - OSI
+  - ISO
+  - OSI详解
+  - ISO详解
+description: "OSI七层协议详细讲解"
 abbrlink: 7a3dfa9
 date: 2016-12-05T10:20:05+08:00
 categories: [网络]

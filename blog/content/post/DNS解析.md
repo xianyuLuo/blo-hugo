@@ -3,6 +3,14 @@ title: DNS解析
 tags: 
   - TCP
   - IP
+  - DNS
+keywords:
+  - DNS
+  - 什么是DNS协议
+  - DNS协议
+  - DNS原理
+  - tcp/ip
+description: "介绍了什么是DNS协议，以及DNS协议工作原理"
 abbrlink: 9e319110
 date: 2016-11-20T23:16:07+08:00
 categories: [网络]

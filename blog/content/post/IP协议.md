@@ -3,6 +3,12 @@ title: IP协议
 tags: 
   - TCP
   - IP
+keyword:
+  - tcp/ip
+  - IP协议
+  - 什么是IP协议
+  - IP协议原理
+description: "介绍了IP协议原理和工作步骤"
 abbrlink: 6cfb29f7
 date: 2016-11-24T23:20:16+08:00
 categories: [网络]

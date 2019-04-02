@@ -4,6 +4,13 @@ tags:
   - kubernetes
   - ingress
   - traefik
+keywords:
+  - traefik
+  - ingress
+  - traefik应用
+  - traefik在kubernetes中的应用
+  - traefik在k8s中使用
+description: "traefik在kubernetes中的使用"
 abbrlink: 208297ce
 date: 2018-09-10T22:08:46+08:00
 categories:

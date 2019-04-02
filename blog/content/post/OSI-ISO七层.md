@@ -3,6 +3,12 @@ title: OSI/ISO七层——TCP/IP四层
 tags: 
   - TCP
   - IP
+keywords:
+  - tcp/ip
+  - OSI
+  - ISO
+  - OSI对应TCP
+description: "OSI/ISO七层怎么对应TCP/IP协议四层"
 abbrlink: 2f104938
 date: 2016-11-30T16:31:48+08:00
 categories: [网络]

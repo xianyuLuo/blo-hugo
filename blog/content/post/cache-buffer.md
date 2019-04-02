@@ -2,6 +2,13 @@
 title: cache和buffer的区别
 tags: 
   - 操作系统
+  - OS
+keywords:
+  - cache
+  - buffer
+  - 缓存
+  - cache和buffer的区别
+description: "cache和buffer的区别"
 abbrlink: 7942b68e
 date: 2016-11-19T23:46:50+08:00
 categories:

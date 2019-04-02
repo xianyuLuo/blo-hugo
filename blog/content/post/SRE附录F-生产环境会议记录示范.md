@@ -2,6 +2,12 @@
 title: SRE附录F~生产环境会议记录示范
 tags:
   - sre
+keywords:
+  - sre 
+  - sre附录
+  - 生产环境会议记录
+  - 生产环境会议
+description: "SRE生产环境会议记录模板"
 abbrlink: 1566daae
 date: 2019-03-10T12:09:02+08:00
 categories:

@@ -2,6 +2,12 @@
 title: SRE附录C~事故状态文档示范
 tags:
   - sre
+keywords:
+  - sre
+  - sre附录
+  - 事故状态文档示范
+  - 事故状态文档
+description: "SRE事故状态文档示范模板"
 abbrlink: 708220af
 date: 2019-03-10T12:11:03+08:00
 categories:

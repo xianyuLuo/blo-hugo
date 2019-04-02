@@ -3,6 +3,12 @@ title: tcp交互数据和块数据处理
 tags: 
   - TCP
   - IP
+keywords:
+  - tcp数据交互
+  - tcp
+  - tcp协议
+  - tcp块数据
+description: "详细介绍tcp交互数据和块数据处理"
 abbrlink: d8cfbc13
 date: 2017-11-29T20:41:05+08:00
 categories: [网络]

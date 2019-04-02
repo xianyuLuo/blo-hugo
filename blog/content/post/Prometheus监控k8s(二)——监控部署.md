@@ -4,6 +4,13 @@ date: 2019-03-18T15:51:18+08:00
 tags:
   - kubernetes
   - prometheus
+keywords:
+  - prometheus
+  - kubernetes监控
+  - k8s监控
+  - prometheus监控
+  - prometheus monitor kubernetes
+description: "如何使用prometheus监控kubernetes"
 categories:
   - kubernetes
   - prometheus
