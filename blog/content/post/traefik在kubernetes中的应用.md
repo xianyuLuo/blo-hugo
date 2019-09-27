@@ -184,10 +184,12 @@ ingress.kubernetes.io/allowed-hosts: EXPR | 访问控制  Host1,Host2
 ingress.kubernetes.io/auth-type: basic | 认证方法，只有basic
 ingress.kubernetes.io/auth-secret: website-test-secret | 认证secret。可用 htpasswd 生成
 
+# 将a.com的http、https都跳转到https://b.com
+traefik.ingress.kubernetes.io/frontend-entry-points: http,https
 
-traefik部署编排：https://gitlab.ilongyuan.cn/ops/k8s-compose/tree/master/website/traefik
+traefik.ingress.kubernetes.io/redirect-regex: ^https?://emo.dragonest.com/(.*)
 
-traefik测试实例编排：https://gitlab.ilongyuan.cn/ops/k8s-compose/tree/master/website/test
+traefik.ingress.kubernetes.io/redirect-replacement: https://chaosacademy.dragonest.com/$1
 
 traefik官网：https://docs.traefik.io/
 
